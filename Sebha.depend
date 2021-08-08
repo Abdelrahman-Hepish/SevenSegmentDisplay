@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1628193820 source:e:\swiftact2021_rev\sebha\count.c
+
+1628454189 source:e:\swiftact2021_rev\sebha\gpio.c
+	"gpio.h"
+	"utilites.h"
+	<pic16f877a.h>
+
+1628452911 e:\swiftact2021_rev\sebha\gpio.h
+	"utilites.h"
+
+1628205497 e:\swiftact2021_rev\sebha\utilites.h
+
+1628205057 source:e:\swiftact2021_rev\sebha\push_button.c
+	"push_button.h"
+	"gpio.h"
+
+1628205057 e:\swiftact2021_rev\sebha\push_button.h
+
+1628451045 source:e:\swiftact2021_rev\sebha\sebha.c
+	<pic16f877a.h>
+	"ssd.h"
+	"count.h"
+	"push_button.h"
+
+1628452161 e:\swiftact2021_rev\sebha\ssd.h
+
+1628205465 e:\swiftact2021_rev\sebha\count.h
+	"utilites.h"
+
+1628251264 source:e:\swiftact2021_rev\sebha\ssd.c
+	"ssd.h"
+	"gpio.h"
+	"utilites.h"
+
+1628193641 source:e:\swiftact2021_rev\sebha\utilites.c
+	"utilites.h"
+

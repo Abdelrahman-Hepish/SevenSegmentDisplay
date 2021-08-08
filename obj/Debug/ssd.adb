@@ -1,0 +1,11 @@
+M:ssd
+F:G$SSD_Init$0_0$0({2}DF,SV:S),Z,0,0,0,0,0
+F:G$SSD_Update$0_0$0({2}DF,SV:S),Z,0,0,0,0,0
+F:G$SSD_GetSymbol$0_0$0({2}DF,SC:U),Z,0,0,0,0,0
+F:G$SSD_GetState$0_0$0({2}DF,SC:U),Z,0,0,0,0,0
+F:G$SSD_SetSymbolData$0_0$0({2}DF,SV:S),C,0,0,0,0,0
+F:G$SSD_SetStateData$0_0$0({2}DF,SV:S),C,0,0,0,0,0
+F:Fssd$SSD_SetPinsAsOutput$0_0$0({2}DF,SV:S),Z,0,0,0,0,0
+F:Fssd$SSD_TurnAllOff$0_0$0({2}DF,SV:S),Z,0,0,0,0,0
+F:Fssd$SSD_SetHardWare$0_0$0({2}DF,SV:S),Z,0,0,0,0,0
+T:Fssd$__00000000[({0}S:S$ssd_symbol$0_0$0({1}SC:U),Z,0,0)({1}S:S$ssd_state$0_0$0({1}SC:U),Z,0,0)]
